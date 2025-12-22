@@ -2,15 +2,15 @@
 layout:
   width: wide
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
   metadata:
     visible: true
 metaLinks:
@@ -24,4 +24,4 @@ metaLinks:
 
 <p align="center">Browse the topics below</p>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Regular Angular Freq.</strong></td><td></td><td><a href="readme/regular-angular-frequency.md">regular-angular-frequency.md</a></td></tr><tr><td><h4><i class="fa-plug">:plug:</i></h4></td><td><strong>Integrations</strong></td><td>Extend your workflow</td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td></tr><tr><td><h4><i class="fa-money-bill-wave">:money-bill-wave:</i></h4></td><td><strong>Plans and billing</strong></td><td>Get help with your billing</td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td></tr><tr><td><h4><i class="fa-heart">:heart:</i></h4></td><td><strong>Community</strong></td><td>Join our community</td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td></tr><tr><td><h4><i class="fa-computer-mouse">:computer-mouse:</i></h4></td><td><strong>Admin</strong></td><td>Manage your account</td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td></tr><tr><td><h4><i class="fa-bullhorn">:bullhorn:</i></h4></td><td><strong>Product updates</strong></td><td>See what’s new</td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Regular Angular Freq.</strong></td><td><a href="readme/regular-angular-frequency.md">regular-angular-frequency.md</a></td></tr><tr><td><h4><i class="fa-plug">:plug:</i></h4></td><td><strong>Power - Peak - RMS</strong></td><td><a href="readme/power-peak-rms.md">power-peak-rms.md</a></td></tr><tr><td><h4><span data-gb-custom-inline data-tag="emoji" data-code="1f4b6">💶</span></h4></td><td>Euler &#x26; Sinusoids</td><td><a href="readme/euler-sinusoids.md">euler-sinusoids.md</a></td></tr><tr><td><h4><i class="fa-bell">:bell:</i></h4></td><td><strong>Bell &#x26; deciBell</strong></td><td><a href="readme/bel-decibel.md">bel-decibel.md</a></td></tr></tbody></table>
