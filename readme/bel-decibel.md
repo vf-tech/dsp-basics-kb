@@ -12,7 +12,7 @@ $$4 * bel = 10^4$$
 
 $$\large dB = 10log_{10}(\frac{P2}{P1})$$&#x20;
 
-#### Calculate Amplitude = Voltage = Current in $$dB$$
+#### Calculate Amplitude (Voltage, Current) in $$dB$$
 
 $$\large dB = 20log_{10}(\frac{A2}{A1}) = 20log_{10}(\frac{V2}{V1}) = 20log_{10}(\frac{I2}{I1})$$
 
