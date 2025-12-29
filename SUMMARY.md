@@ -12,3 +12,5 @@
 ## Digital Filter Basics
 
 * [Digital Filter Basics](digital-filter-basics/digital-filter-basics.md)
+* [Information & Signals](digital-filter-basics/information-and-signals.md)
+* [Digital Filter Classification](digital-filter-basics/digital-filter-classification.md)
