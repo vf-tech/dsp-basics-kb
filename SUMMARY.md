@@ -8,3 +8,7 @@
   * [Mean & Std. Dev.](readme/mean-and-std.-dev..md)
   * [SNR](readme/snr.md)
   * [Sinc Function](readme/sinc-function.md)
+
+## Digital Filter Basics
+
+* [Digital Filter Basics](digital-filter-basics/digital-filter-basics.md)
