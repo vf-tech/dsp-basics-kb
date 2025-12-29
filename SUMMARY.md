@@ -7,3 +7,4 @@
   * [bel - Decibel](readme/bel-decibel.md)
   * [Mean & Std. Dev.](readme/mean-and-std.-dev..md)
   * [SNR](readme/snr.md)
+  * [Sinc Function](readme/sinc-function.md)
