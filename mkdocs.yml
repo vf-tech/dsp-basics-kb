@@ -1,34 +1,16 @@
 site_name: Personal Knowledge Base
 site_description: Engineering, DSP, and Embedded Systems Notes
 site_author: Your Name
-site_url: https://<username>.github.io/<repo-name>/
+site_url: https://<username>.github.io/dsp-basics-kb/
 
 theme:
-  name: material
+  name: readthedocs
   language: en
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.sections
-    - toc.follow
-    - search.highlight
-    - content.code.copy
 
 markdown_extensions:
-  - admonition
   - pymdownx.arithmatex:
       generic: true
-  - pymdownx.highlight
-  - pymdownx.superfences
-  - pymdownx.details
-  - toc:
-      permalink: true
-
-extra_css:
-  - https://unpkg.com/katex@0/dist/katex.min.css
 
 extra_javascript:
-  - javascripts/katex.js
-  - https://unpkg.com/katex@0/dist/katex.min.js
-  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

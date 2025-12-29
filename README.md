@@ -9,6 +9,15 @@ This site contains structured notes on:
 - Embedded systems
 - Standards and technical references
 
+## Local preview (MkDocs)
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # Windows (PowerShell): .venv\\Scripts\\Activate.ps1
+python -m pip install -r requirements.txt
+mkdocs serve
+```
+
 ## Example Equation
 
 $$
