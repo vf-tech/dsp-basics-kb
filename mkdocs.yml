@@ -25,20 +25,10 @@ markdown_extensions:
   - toc:
       permalink: true
 
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
 
-nav:
-  - Home: index.md
-  - Mathematics:
-      - RMS: math/rms.md
-      - FFT: math/fft.md
-      - Filters: math/filters.md
-  - DSP:
-      - Sampling: dsp/sampling.md
-      - Windowing: dsp/windowing.md
-  - Embedded:
-      - STM32: embedded/stm32.md
-      - CMSIS-DSP: embedded/cmsis_dsp.md
-  - Standards:
-      - IEC 60255: standards/iec_60255.md
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
