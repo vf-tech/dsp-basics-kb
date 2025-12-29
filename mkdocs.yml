@@ -1,0 +1,44 @@
+site_name: Personal Knowledge Base
+site_description: Engineering, DSP, and Embedded Systems Notes
+site_author: Your Name
+site_url: https://<username>.github.io/<repo-name>/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - toc.follow
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: index.md
+  - Mathematics:
+      - RMS: math/rms.md
+      - FFT: math/fft.md
+      - Filters: math/filters.md
+  - DSP:
+      - Sampling: dsp/sampling.md
+      - Windowing: dsp/windowing.md
+  - Embedded:
+      - STM32: embedded/stm32.md
+      - CMSIS-DSP: embedded/cmsis_dsp.md
+  - Standards:
+      - IEC 60255: standards/iec_60255.md
