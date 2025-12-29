@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Help Center](README.md)
+* [DSP-BASICS](README.md)
   * [Regular \~ Angular Frequency](readme/regular-angular-frequency.md)
   * [Power - Peak - RMS](readme/power-peak-rms.md)
   * [euler - Sinusoids](readme/euler-sinusoids.md)
