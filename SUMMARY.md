@@ -5,4 +5,5 @@
   * [Power - Peak - RMS](readme/power-peak-rms.md)
   * [euler - Sinusoids](readme/euler-sinusoids.md)
   * [bel - Decibel](readme/bel-decibel.md)
+  * [Mean & Std. Dev.](readme/mean-and-std.-dev..md)
   * [SNR](readme/snr.md)
