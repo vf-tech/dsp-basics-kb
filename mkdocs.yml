@@ -4,8 +4,26 @@ site_author: Your Name
 site_url: https://<username>.github.io/dsp-basics-kb/
 
 theme:
-  name: readthedocs
+  name: windmill
   language: en
+
+nav:
+  - Home: index.md
+  - DSP Basics:
+      - Overview: dsp-basics/index.md
+      - Bel / Decibel: dsp-basics/bel-decibel.md
+      - Euler & Sinusoids: dsp-basics/euler-sinusoids.md
+      - Mean & Std Dev: dsp-basics/mean-and-std-dev.md
+      - Power / Peak / RMS: dsp-basics/power-peak-rms.md
+      - Regular Angular Frequency: dsp-basics/regular-angular-frequency.md
+      - Sinc Function: dsp-basics/sinc-function.md
+      - SNR: dsp-basics/snr.md
+
+  - Digital Filter Basics:
+      - Overview: digital-filter-basics/index.md
+      - Digital Filter Basics: digital-filter-basics/digital-filter-basics.md
+      - Classification: digital-filter-basics/digital-filter-classification.md
+      - Information & Signals: digital-filter-basics/information-and-signals.md
 
 markdown_extensions:
 
